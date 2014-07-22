@@ -1,7 +1,9 @@
+package SRM196.DIV2;
+
 /**
  * Created by john on 4/28/14.
  * SRM 196 DIV 2 250
- *
+ * http://community.topcoder.com/stat?c=problem_statement&pm=2826
  */
 public class Education {
     /**
