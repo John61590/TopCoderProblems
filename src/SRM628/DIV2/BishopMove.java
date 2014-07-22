@@ -3,6 +3,7 @@ package SRM628.DIV2;
 /**
  * SRM 628 DIV 2 250 point
  * Date: 7/22/14
+ * Find possible bishop (diagonal) moves from (r1, c1) to (r2, c2) with 2 being the max allowed and -1 being not possible
  * http://community.topcoder.com/stat?c=problem_statement&pm=13280
  */
 public class BishopMove {
