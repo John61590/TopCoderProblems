@@ -1,4 +1,4 @@
-package SRM208.DIV2;
+package SRM145.DIV2;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,7 +12,7 @@ import java.util.Set;
  *
  * http://community.topcoder.com/stat?c=problem_statement&pm=1728
  */
-public class ImageDithering {
+public class DitherCounter {
     public int count(String dithered, String[] screen)
     {
         int sum = 0;
