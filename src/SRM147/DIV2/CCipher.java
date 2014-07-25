@@ -20,6 +20,7 @@ public class CCipher {
     }
     public static void main(String[] args)
     {
+        //Test cases
         System.out.println(decode("VQREQFGT", 2));
         System.out.println(decode("ABCDEFGHIJKLMNOPQRSTUVWXYZ", 10));
         System.out.println(decode("TOPCODER", 0));
